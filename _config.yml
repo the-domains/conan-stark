@@ -1,0 +1,28 @@
+name: Conan Stark
+favicon: null
+layout_spectrum: 0.5777528535109013
+typography_spectrum: 0.25437334715388715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15471662092022598
+  lightness: 0.06597780995070934
+  saturation: 0.398659833939746
+  rhythmicContrast: 0.5703624656889588
+purpose: []
